@@ -6,7 +6,12 @@
 While in repository folder, run the command python3 2DPlanning/Search_2D/Best_First.py \
 inside the informed_RRT folder, run the command python main.py
 
-# Result
+# Results
+
+![illustration](Dijkstra.png)
+![illustration](Astar.png)
+![illustration](INF_RRT.png)
+![illustration](RRT.png)
 
 
 
