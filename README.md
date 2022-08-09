@@ -4,7 +4,7 @@
 
 # Testing the code
 While in repository folder, run the command python3 2DPlanning/Search_2D/Best_First.py \
-inside the informed_rrt folder, run the command python main.py
+inside the informed_RRT folder, run the command python main.py
 
 # Result
 
