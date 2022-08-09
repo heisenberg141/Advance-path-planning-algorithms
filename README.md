@@ -10,8 +10,8 @@ inside the informed_RRT folder, run the command python main.py
 
 ![illustration](Dijkstra.png)
 ![illustration](Astar.png)
-![illustration](INF_RRT.png)
 ![illustration](RRT.png)
+![illustration](INF_RRT.png)
 
 
 
